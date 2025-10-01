@@ -1,7 +1,7 @@
-<h1>Formulário de Aluno</h1>
+<h1>Formulário de aluno</h1>
 <form method="post">
   {% csrf_token %}
   {{ form.as_p }}
-  <button type="submit">Salvar</button>
+  <button type="submit">salvar</button>
 </form>
-<a href="{% url 'listar_alunos' %}">Voltar</a>
+<a href="{% url 'listar_alunos' %}">voltar</a>
