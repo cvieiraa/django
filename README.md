@@ -1,14 +1,7 @@
-Perfeito 🚀 vou montar para você um **README.md bem completo** em Markdown, já pronto para você postar no GitHub. Ele vai conter:
-
-1. 📖 Explicação do projeto
-2. 🛠️ Passo a passo para rodar
-3. 🔗 Explicação das conexões (front ↔ back ↔ banco)
-4. 📂 Estrutura de pastas
-5. ✅ CRUD funcionando
 
 ---
 
-# 📌 README.md (para GitHub)
+
 
 ````markdown
 # 🏫 Projeto Escola – CRUD com Django + PostgreSQL
